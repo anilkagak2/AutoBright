@@ -7,6 +7,7 @@
 + PyQt4
 + dbus
 + Python
++ libopencv-dev
 
 ### Instructions
 + Double Click on the AutoBright.py file. If this doesn't run try

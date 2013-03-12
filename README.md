@@ -17,7 +17,8 @@ by adjusting the sliding bar & click on set for applying the changes.
 so that it continues to run in the background & hence able to adjust
 the screen brightness automatically.
 
-### NOTE: SOFTWARE CURRENTLY WORKING ON UBUNTU 12.10 AND GREATER
+### NOTE
+SOFTWARE CURRENTLY WORKING ON UBUNTU 12.10 AND GREATER
 
 
 ## KNOWN BUGS
